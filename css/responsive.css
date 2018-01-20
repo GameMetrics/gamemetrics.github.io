@@ -9,7 +9,7 @@
 -----------------------------------------*/
 @media (max-width: 1400px) {
 	.header-container {
-		margin-top: 0px;
+		margin-top: -20px;
 	}
 
 }
