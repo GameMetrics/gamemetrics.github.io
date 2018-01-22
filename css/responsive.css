@@ -349,7 +349,7 @@
 
 	.overlay-layer {
 		/*We are making the overlay lighter for smartphones.*/
-		background: rgba(0, 5, 8, 0.60);
+		background: rgba(0, 5, 8, 0.75);
 	}
 
   .header {
