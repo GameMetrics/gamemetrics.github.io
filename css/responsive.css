@@ -347,11 +347,6 @@
 		margin-bottom: 10px;
 	}
 
-	.overlay-layer {
-		/*We are making the overlay lighter for smartphones.*/
-		background: rgba(0, 5, 8, 0.75);
-	}
-
   .header {
 		/*We are using an smaller bg for smartphone to speed the load.*/
 		background: url(../images/background-images/1-580px.jpg) no-repeat 42% top fixed;
