@@ -347,6 +347,12 @@
 		margin-bottom: 10px;
 	}
 
+  .header {
+		background: url(../images/background-images/1-580px.jpg) no-repeat center top fixed;
+		-webkit-background-size: cover;
+		background-size: cover;
+	}
+
 	.section-header {
 		margin-bottom: 25px;
 	}
