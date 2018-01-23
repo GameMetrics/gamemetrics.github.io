@@ -84,7 +84,7 @@ $(window).resize(function() {
           "opacity": '0'
       }, 0);
 
-      if (top > 0) {
+      /*if (top > 1000) {
       $('.nv-item-fadeout').fadeOut(50);
       }
       else {
@@ -92,13 +92,13 @@ $(window).resize(function() {
 
       }
 
-      if (top > 200) {
+      if (top > 1200) {
       $('.nv-item-fadein').fadeIn(150);
       }
       else {
       $('.nv-item-fadein').fadeOut(50);
 
-      }
+      }*/
 
   }
 
