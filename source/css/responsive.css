@@ -360,6 +360,12 @@
 		background-size: cover;
 	}
 
+	.call-to-action {
+	    background: url(../images/background-images/2-580px.jpg) fixed no-repeat top center;
+	    -webkit-background-size: cover;
+	    background-size: cover;
+	}
+
 	.section-header {
 		margin-bottom: 25px;
 	}
